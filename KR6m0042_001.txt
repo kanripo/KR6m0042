@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:46.852045
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:36
 #+TITLE: 肇論疏科
 #+PROPERTY: CBETA_ID X54n0868
 #+PROPERTY: ID KR6m0042
@@ -10,7 +10,7 @@
 #+PROPERTY: LASTPB <pb:KR6m0042_X_001-0120a> 
 #+PROPERTY: JUAN 1
 
-No.868-A肇論疏序科文¶
+* No.868-A肇論疏序科文¶
 泐潭禪師　曉月　治定¶
 
   
